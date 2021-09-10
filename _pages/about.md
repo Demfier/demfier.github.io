@@ -18,9 +18,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.html){:target="\_blank"} of the [University of Waterloo](https://cs.uwaterloo.ca/){:target="\_blank"}, advised by [Prof. Olga Vechtomova](https://ov-research.uwaterloo.ca/){:target="\_blank"}.
-My research focuses on multimodal deep learning and generative text modelling.
-Currently, I am exploring ways to extract visual and auditory cues to generate better text.
+My research focuses on multimodal deep learning and generative text modelling, where I explore ways to extract visual and auditory cues to generate better text.
 I am also interested in learning the dynamics of the shared multimodal latent space.
+
+Currently, I am visiting researcher at Element AI (acquired by ServiceNow), working with
+[Dzmitry Bahdanau](https://rizar.github.io/).
 
 I earned a thesis-based M.Math. degree in Computer Science from the University of Waterloo.
 Prior to that, I got my B.Tech. degree in Manufacturing Science and Engineering from the [Indian Institute of Technology Kharagpur (IIT Kharagpur)](http://iitkgp.ac.in/){:target="\_blank"}, where I worked with [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/){:target="\_blank"} on Program Synthesis for Natural Language.
