@@ -21,7 +21,7 @@ I am a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.h
 My research focuses on multimodal deep learning and generative text modelling, where I explore ways to extract visual and auditory cues to generate better text.
 I am also interested in learning the dynamics of the shared multimodal latent space.
 
-Currently, I am visiting researcher at Element AI (acquired by ServiceNow), working with
+Currently, I am Visiting Researcher at Element AI (acquired by ServiceNow), working with
 [Dzmitry Bahdanau](https://rizar.github.io/).
 
 I earned a thesis-based M.Math. degree in Computer Science from the University of Waterloo.
@@ -30,4 +30,5 @@ Prior to that, I got my B.Tech. degree in Manufacturing Science and Engineering 
 Apart from research, I am much enthused by language and art.
 I love to sometimes engross myself with sketching and painting.
 Check out [my art collection](https://photos.app.goo.gl/no5gipGp9HGyZrR28){:target="\_blank"} if you'd like!
-These days, I am also learning to speak Japanese and play the piano.
+I have been learning to speak Japanese and to play the piano,
+and since I am in Montréal these days, I am also trying to pick up some Québécois French.
