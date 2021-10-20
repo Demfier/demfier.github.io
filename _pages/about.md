@@ -21,8 +21,10 @@ I am a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.h
 My research focuses on multimodal deep learning and generative text modelling, where I explore ways to extract visual and auditory cues to generate better text.
 I am also interested in learning the dynamics of the shared multimodal latent space.
 
-Currently, I am Visiting Researcher at Element AI (acquired by ServiceNow), working with
-[Dzmitry Bahdanau](https://rizar.github.io/).
+Currently, I am Visiting Researcher at Element AI, a ServiceNow Company, working
+with [Dzmitry Bahdanau](https://rizar.github.io/),
+[Pau Rodríguez López](https://prlz77.github.io/),
+and [David Vazquez](http://www.david-vazquez.com/).
 
 I earned a thesis-based M.Math. degree in Computer Science from the University of Waterloo.
 Prior to that, I got my B.Tech. degree in Manufacturing Science and Engineering from the [Indian Institute of Technology Kharagpur (IIT Kharagpur)](http://iitkgp.ac.in/){:target="\_blank"}, where I worked with [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/){:target="\_blank"} on Program Synthesis for Natural Language.
