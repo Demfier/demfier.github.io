@@ -33,4 +33,4 @@ Apart from research, I am much enthused by language and art.
 I love to sometimes engross myself with sketching and painting.
 Check out [my art collection](https://photos.app.goo.gl/no5gipGp9HGyZrR28){:target="\_blank"} if you'd like!
 I have been learning to speak Japanese and to play the piano,
-and since I am in Montréal these days, I am also trying to pick up some Québécois French!
+and since I am in Montréal these days, I am also trying to pick up some French!
