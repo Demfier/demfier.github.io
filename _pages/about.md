@@ -21,7 +21,7 @@ I am a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.h
 My research focuses on multimodal deep learning and generative text modelling, where I explore ways to extract visual and auditory cues to generate better text.
 I am also interested in learning the dynamics of the shared multimodal latent space.
 
-I am also a Visiting Researcher at ServiceNow Research, collaboration with
+I am also a Visiting Researcher at ServiceNow Research, collaborating with
 the Human-Machine Interaction Through Language (HMITL) and the Low Data Learning (LDL) groups.
 
 I earned a thesis-based M.Math. degree in Computer Science from the University of Waterloo.

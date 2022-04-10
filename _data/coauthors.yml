@@ -28,7 +28,7 @@
 
 "Laradji":
   - firstname: ["Issam", "I."]
-  - middlename: ['H.']
+    middlename: ['H.']
     url: https://issamlaradji.github.io/
 
 "Vazquez":
