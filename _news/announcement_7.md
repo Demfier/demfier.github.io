@@ -4,4 +4,4 @@ date: 2022-03-28
 inline: true
 ---
 
-Our work exploring data augmentation for intent classification got accepted to the [ConvAI workshop](https://sites.google.com/view/4thnlp4convai/home)!
+Our paper on using LLMs for data augmentation accepted to the [NLP4ConvAI workshop](https://sites.google.com/view/4thnlp4convai/home) at [ACL 2022](https://www.2022.aclweb.org/!
