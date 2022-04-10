@@ -3,6 +3,19 @@
 
 @string{aps = {American Physical Society,}}
 
+@misc{https://doi.org/10.48550/arxiv.2204.01959,
+  abbr={NLP4ConvAI},
+  doi = {10.48550/ARXIV.2204.01959},
+  url = {https://arxiv.org/abs/2204.01959},
+  author = {Sahu, Gaurav and Rodriguez, Pau and Laradji, Issam H. and Atighehchian, Parmida and Vazquez, David and Bahdanau, Dzmitry},
+  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Data Augmentation for Intent Classification with Off-the-shelf Large Language Models},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International},
+  abstract = "Data augmentation is a widely employed technique to alleviate the problem of data scarcity. In this work, we propose a prompting-based approach to generate labelled training data for intent classification with off-the-shelf language models (LMs) such as GPT-3. An advantage of this method is that no task-specific LM-fine-tuning for data generation is required; hence the method requires no hyper-parameter tuning and is applicable even when the available training data is very scarce. We evaluate the proposed method in a few-shot setting on four diverse intent classification tasks. We find that GPT-generated data significantly boosts the performance of intent classifiers when intents in consideration are sufficiently distinct from each other. In tasks with semantically close intents, we observe that the generated data is less helpful. Our analysis shows that this is because GPT often generates utterances that belong to a closely-related intent instead of the desired one. We present preliminary evidence that a prompting-based GPT classifier could be helpful in filtering the generated data to enhance its quality."
+}
+
 @inproceedings{parmentier2021personalized,
       abbr={JDSA},
       title={Personalized multi-faceted trust modeling to determine trust links in social media and its potential for misinformation management},
@@ -49,19 +62,6 @@
   bib={multimodal-hate-speech-2019.bib},
   abstract={Identifying emotion from speech is a non-trivial task pertaining to the ambiguous definition of emotion itself. In this work, we adopt a feature-engineering based approach to tackle the task of speech emotion recognition. Formalizing our problem as a multi-class classification problem, we compare the performance of two categories of models. For both, we extract eight hand-crafted features from the audio signal. In the first approach, the extracted features are used to train six traditional machine learning classifiers, whereas the second approach is based on deep learning wherein a baseline feed-forward neural network and an LSTM-based classifier are trained over the same features. In order to resolve ambiguity in communication, we also include features from the text domain. We report accuracy, f-score, precision, and recall for the different experiment settings we evaluated our models in. Overall, we show that lighter machine learning based models trained over a few hand-crafted features are able to achieve performance comparable to the current deep learning based state-of-the-art method for emotion recognition.},
   year={2019}
-}
-
-@misc{https://doi.org/10.48550/arxiv.2204.01959,
-  abbr={NLP for ConvAI},
-  doi = {10.48550/ARXIV.2204.01959},
-  url = {https://arxiv.org/abs/2204.01959},
-  author = {Sahu, Gaurav and Rodriguez, Pau and Laradji, Issam H. and Atighehchian, Parmida and Vazquez, David and Bahdanau, Dzmitry},
-  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Data Augmentation for Intent Classification with Off-the-shelf Large Language Models},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International},
-  abstract = "Data augmentation is a widely employed technique to alleviate the problem of data scarcity. In this work, we propose a prompting-based approach to generate labelled training data for intent classification with off-the-shelf language models (LMs) such as GPT-3. An advantage of this method is that no task-specific LM-fine-tuning for data generation is required; hence the method requires no hyper-parameter tuning and is applicable even when the available training data is very scarce. We evaluate the proposed method in a few-shot setting on four diverse intent classification tasks. We find that GPT-generated data significantly boosts the performance of intent classifiers when intents in consideration are sufficiently distinct from each other. In tasks with semantically close intents, we observe that the generated data is less helpful. Our analysis shows that this is because GPT often generates utterances that belong to a closely-related intent instead of the desired one. We present preliminary evidence that a prompting-based GPT classifier could be helpful in filtering the generated data to enhance its quality."
 }
 
 

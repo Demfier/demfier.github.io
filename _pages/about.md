@@ -21,10 +21,8 @@ I am a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.h
 My research focuses on multimodal deep learning and generative text modelling, where I explore ways to extract visual and auditory cues to generate better text.
 I am also interested in learning the dynamics of the shared multimodal latent space.
 
-Currently, I am Visiting Researcher at Element AI, a ServiceNow Company, working
-with [Dzmitry Bahdanau](https://rizar.github.io/){:target="\_blank"},
-[Pau Rodríguez López](https://prlz77.github.io/){:target="\_blank"},
-and [David Vázquez](http://www.david-vazquez.com/){:target="\_blank"}.
+I am also a Visiting Researcher at ServiceNow Research, collaboration with
+the Human-Machine Interaction Through Language (HMITL) and the Low Data Learning (LDL) groups.
 
 I earned a thesis-based M.Math. degree in Computer Science from the University of Waterloo.
 Prior to that, I got my B.Tech. degree in Manufacturing Science and Engineering from the [Indian Institute of Technology Kharagpur (IIT Kharagpur)](http://iitkgp.ac.in/){:target="\_blank"}, where I worked with [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/){:target="\_blank"} on Program Synthesis for Natural Language.
@@ -32,5 +30,4 @@ Prior to that, I got my B.Tech. degree in Manufacturing Science and Engineering 
 Apart from research, I am much enthused by language and art.
 I love to sometimes engross myself with sketching and painting.
 Check out [my art collection](https://photos.app.goo.gl/no5gipGp9HGyZrR28){:target="\_blank"} if you'd like!
-I have been learning to speak Japanese and to play the piano,
-and since I am in Montréal these days, I am also trying to pick up some French!
+I have been learning to play the piano and to speak Japanese and French.

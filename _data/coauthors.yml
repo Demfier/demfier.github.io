@@ -17,3 +17,20 @@
 "Goyal":
   - firstname: ["Pawan", "P."]
     url: https://cse.iitkgp.ac.in/~pawang/
+
+"Bahdanau":
+  - firstname: ["Dzmitry", "D."]
+    url: https://rizar.github.io/
+
+"Rodriguez":
+  - firstname: ["Pau", "P."]
+    url: https://prlz77.github.io/about/
+
+"Laradji":
+  - firstname: ["Issam", "I."]
+  - middlename: ['H.']
+    url: https://issamlaradji.github.io/
+
+"Vazquez":
+  - firstname: ["David", "D."]
+    url: http://www.david-vazquez.com/
