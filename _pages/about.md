@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>DC 3334</p>
+    <p>DC 2553</p>
     <p>Univ. of Waterloo</p>
     <p>Waterloo, Ontario, N2L 3G1</p>
 
