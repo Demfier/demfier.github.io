@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Researcher.
+subtitle: Pushing the frontiers of AI to accelerate science.
 
 profile:
   align: right
