@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Montreal</p>
+    <p>QC, Canada</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral fellow at [Mila - Quebec AI Institute](https://mila.quebec/en) where I am priviledged to work with [Prof. Chris Pal](https://sites.google.com/view/christopher-pal), and [Prof. Laurent Charlin](https://www.cs.toronto.edu/~lcharlin/). Prior to that, I was a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.html){:target="\_blank"} of the [University of Waterloo](https://cs.uwaterloo.ca/){:target="\_blank"}, advised by [Prof. Olga Vechtomova](https://ov-research.uwaterloo.ca/){:target="\_blank"} working on developing mechanisms to extract the most out of LLMs for *any* task, objective or subjective.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I earned a thesis-based M.Math. degree in Computer Science from the University of Waterloo.
+Prior to that, I got my B.Tech. degree in Manufacturing Science and Engineering from the [Indian Institute of Technology Kharagpur (IIT Kharagpur)](http://iitkgp.ac.in/){:target="\_blank"}, where I worked with [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/){:target="\_blank"} on Program Synthesis for Natural Language.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Apart from research, I am much enthused by language and art.
+I love to sometimes engross myself with sketching and painting.
+Check out [my art collection](https://photos.app.goo.gl/no5gipGp9HGyZrR28){:target="\_blank"} if you'd like!
+I have been learning to play the piano and to speak Japanese and French.
