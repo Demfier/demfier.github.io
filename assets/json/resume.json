@@ -180,7 +180,7 @@
   "volunteer": [
     {
       "organization": "Technovation Girls",
-      "position": "Mentor & 3x World Finalist Team Mentor",
+      "position": "Mentor & 3x World Finalist",
       "url": "https://technovationchallenge.org/",
       "startDate": "2019",
       "endDate": "",
@@ -191,8 +191,8 @@
       "organization": "Student Welfare Group, IITKGP",
       "position": "Mentor",
       "url": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2017",
+      "endDate": "2018",
       "summary": "Helped 7 undergraduates successfully navigate their initial years at IIT Kharagpur.",
       "highlights": []
     }
@@ -206,19 +206,19 @@
     },
     {
       "title": "Mitacs Accelerate Scholarship",
-      "date": "",
+      "date": "2023-2025",
       "awarder": "Mitacs",
       "summary": "$120,000"
     },
     {
       "title": "Graduate Excellence Award",
-      "date": "",
+      "date": "2024",
       "awarder": "University of Waterloo",
       "summary": "$10,000"
     },
     {
       "title": "Intl Doctoral and Masters Award",
-      "date": "",
+      "date": "2020-2024",
       "awarder": "University of Waterloo",
       "summary": "$37,500"
     },
