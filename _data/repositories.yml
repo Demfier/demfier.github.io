@@ -6,6 +6,7 @@ repo_description_lines_max: 2
 github_repos:
   - litllm/litllm
   - demfier/multimodal-speech-emotion-recognition
+  - demfier/philo
   - serviceNow/data-augmentation-with-llms
   - serviceNow/insight-bench
   - serviceNow/promptmix-emnlp-2023
