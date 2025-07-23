@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - demfier
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - litllm/litllm
+  - demfier/multimodal-speech-emotion-recognition
+  - serviceNow/data-augmentation-with-llms
+  - serviceNow/insight-bench
+  - serviceNow/promptmix-emnlp-2023
