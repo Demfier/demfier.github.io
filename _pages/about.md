@@ -35,4 +35,4 @@ Prior to that, I got my B.Tech. degree in Manufacturing Science and Engineering 
 Apart from research, I am much enthused by language and art.
 I love to sometimes engross myself with sketching and painting.
 Check out [my art collection](https://photos.app.goo.gl/no5gipGp9HGyZrR28){:target="\_blank"} if you'd like!
-I have also been learning to play the piano and to speak Japanese and French.
+I have also been learning to play the piano, as well as to speak Japanese and French.
