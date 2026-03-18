@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Mila - Quebec AI Institute</p>
     <p>Montreal</p>
     <p>QC, Canada</p>
 
@@ -37,4 +38,4 @@ I hold a Ph.D. and M.Math. in Computer Science from the University of Waterloo, 
 Apart from research, I am much enthused by language and art.
 I love to sometimes engross myself with sketching and painting.
 Check out [my art collection](https://photos.app.goo.gl/no5gipGp9HGyZrR28){:target="\_blank"} if you'd like!
-I have been learning to play the piano and to speak Japanese and French.
+I have also been learning to play the piano, as well as to speak Japanese and French.

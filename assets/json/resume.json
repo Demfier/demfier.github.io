@@ -6,7 +6,7 @@
     "email": "gaurav.sahu@mila.quebec",
     "phone": "",
     "url": "https://scholar.google.com/citations?user=nMAt7UMAAAAJ&hl=en",
-    "summary": "Machine Learning Researcher with expertise in building AI systems that bridge cutting-edge research with real-world applications. Proven track record in developing agentic systems and LLMs for complex scientific workflows, with demonstrated experience in both exploratory research and production ML infrastructure. Passionate about transforming AI research into impactful products that deliver value at scale.",
+    "summary": "Machine Learning Researcher specializing in self-improving AI agents and scalable ML systems. Experienced in bridging cutting-edge research with production-ready applications, including automated literature discovery, evaluation of scientific works, enterprise data analytics, and multimodal AI. Passionate about transforming research into real-world impact and advancing science.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -41,10 +41,10 @@
       "endDate": "ongoing",
       "summary": "Focus: Enhancing Scientific Workflows with AI. Advisors: Prof. Chris Pal, Prof. Laurent Charlin",
       "highlights": [
-        "Led LitLLM and deployed a novel RAG pipeline for automated literature discovery with a \"Deep Research\" variant that boosts retrieval coverage by over 5x and a planning-based generation framework that cuts content hallucination by 18-26%",
-        "Developed Essence, an AI-based framework for literature-grounded paper analysis and claim verification during peer-reviewing",
-        "Probing frontier AI models to evaluate their ability to rediscover complex scientific concepts in AI/ML from first principles",
-        "Building an agentic pipeline to curate a knowledge base of Wiki-style articles for Physics-focused RAG applications"
+        "Led the LitLLM project, a novel RAG pipeline for literature search, improving recall from 8.2% → 84.4% with \"Deep Research\" implementation and reducing hallucinations by 18-26%, enabling researchers to access relevant papers more reliably",
+        "Created ReviewerToo, a modular, training-free AI-assisted peer review framework achieving near-human accuracy for the task of accepting/rejecting a scientific paper (81.8% vs. 83.9%), in addition to providing systematic assessments",
+        "Developed AInstein, a self-reflective research agent that autonomously solves AI problems; independently rediscovers 20% of ICLR 2025 approaches and generates 60% novel solutions, demonstrating frontier potential for automated scientific discovery",
+        "Built an agentic pipeline to curate Wiki-style articles for Physics-focused RAG applications covering >300k Physics papers"
       ]
     },
     {
@@ -111,12 +111,12 @@
       "institution": "IIT Kharagpur",
       "location": "Kharagpur, WB, India",
       "url": "",
-      "area": "Computer Science",
+      "area": "Manufacturing Science and Engineering (Mechanical Engineering)",
       "studyType": "B.Tech (Hons)",
       "startDate": "2014",
       "endDate": "2018",
       "score": "",
-      "courses": ["Thesis: Program Synthesis for Natural Language"]
+      "courses": ["Thesis (in Computer Science): Program Synthesis for Natural Language"]
     }
   ],
   "publications": [
