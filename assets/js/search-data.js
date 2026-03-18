@@ -131,11 +131,32 @@ ninja.data = [{
           window.open("https://github.com/demfier", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/gaurav-sahu-22a75b298", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=nMAt7UMAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-wikidata',
+        title: 'Wikidata',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.wikidata.org/wiki/Q138711618", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://unified-sciences.com/", "_blank");
         },
       },{
         id: 'social-x',
