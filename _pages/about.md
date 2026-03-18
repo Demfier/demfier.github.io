@@ -8,8 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Montreal, QC, Canada</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,9 +26,9 @@ latest_posts:
 
 I am the CEO & Co-Founder of [Unified Sciences](https://unified-sciences.com/){:target="\_blank"}, where we are building the infrastructure for AI-accelerated science. My research spans self-improving agents, LLM reasoning, automated research pipelines, and agentic data analysis — bridging cutting-edge research with production-ready systems.
 
-I am also a Postdoc at [Mila - Quebec AI Institute](https://mila.quebec/en){:target="\_blank"}, working with [Prof. Chris Pal](https://sites.google.com/view/christopher-pal){:target="\_blank"}, [Prof. Laurent Charlin](https://www.cs.toronto.edu/~lcharlin/){:target="\_blank"}, and [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/){:target="\_blank"} on enhancing scientific workflows with AI. Previously, I was a Ph.D. student at the [University of Waterloo](https://cs.uwaterloo.ca/){:target="\_blank"} and a Visiting Researcher at ServiceNow Research.
+I am also a Postdoc at [Mila - Quebec AI Institute](https://mila.quebec/en){:target="\_blank"}, working with [Prof. Chris Pal](https://sites.google.com/view/christopher-pal){:target="\_blank"}, [Prof. Laurent Charlin](https://www.cs.toronto.edu/~lcharlin/){:target="\_blank"}, and [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/){:target="\_blank"} on enhancing scientific workflows with AI. Previously, I was a Visiting Researcher at ServiceNow Research.
 
-I hold a Ph.D. and M.Math. in CS from Waterloo, and a B.Tech. from [IIT Kharagpur](http://iitkgp.ac.in/){:target="\_blank"}.
+I hold a Ph.D. and M.Math. in CS from the [University of Waterloo](https://cs.uwaterloo.ca/){:target="\_blank"}, and a B.Tech. from [IIT Kharagpur](http://iitkgp.ac.in/){:target="\_blank"}.
 
 Apart from research, I am much enthused by language and art.
 I love to sometimes engross myself with sketching and painting.
