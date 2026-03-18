@@ -41,7 +41,7 @@ scholar_userid: nMAt7UMAAAAJ # your Google Scholar ID
 # unsplash_id: # your unsplash id
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-wikidata_id: Q138711618
+# wikidata_id: Q138711618
 # wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: https://unified-sciences.com/ # work page URL
 x_username: dem_fier # your X handle
