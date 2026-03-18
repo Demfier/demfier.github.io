@@ -76,6 +76,60 @@
   {% endif %}
 {% endif %}
 
+{% if page.url == '/' or page.url == '/index.html' %}
+  <!-- Schema.org Person (homepage only) -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "{{ author_name }}",
+      "url": "{{ site.url }}",
+      "image": "{{ site.url }}/assets/img/prof_pic.jpg",
+      "jobTitle": "CEO & Co-Founder",
+      "description": "Gaurav Sahu is CEO and Co-Founder of Unified Sciences, building infrastructure for AI-accelerated science. He is also a Postdoctoral Fellow at Mila – Quebec AI Institute, working on self-improving agents, LLM reasoning, and AI for Science.",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Unified Sciences",
+          "url": "https://unified-sciences.com/"
+        },
+        {
+          "@type": "Organization",
+          "name": "Mila – Quebec AI Institute",
+          "url": "https://mila.quebec/en"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Waterloo"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Indian Institute of Technology Kharagpur"
+        }
+      ],
+      "knowsAbout": [
+        "Artificial Intelligence",
+        "Large Language Models",
+        "AI for Science",
+        "Self-Improving Agents",
+        "LLM Reasoning",
+        "Natural Language Processing",
+        "Agentic Data Analysis",
+        "Synthetic Data"
+      ],
+      "sameAs": [
+        "https://github.com/demfier",
+        "https://twitter.com/dem_fier",
+        "https://www.linkedin.com/in/gaurav-sahu-22a75b298",
+        "https://scholar.google.com/citations?user=nMAt7UMAAAAJ",
+        "https://unified-sciences.com/"
+      ]
+    }
+  </script>
+{% endif %}
+
 {% if site.serve_schema_org %}
   <!-- Schema.org -->
   {% comment %} Social links generator for "sameAs schema" {% endcomment %}
