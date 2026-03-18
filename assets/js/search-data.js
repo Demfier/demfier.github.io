@@ -145,13 +145,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=nMAt7UMAAAAJ", "_blank");
         },
       },{
-        id: 'social-wikidata',
-        title: 'Wikidata',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.wikidata.org/wiki/Q138711618", "_blank");
-        },
-      },{
         id: 'social-work',
         title: 'Work',
         section: 'Socials',
