@@ -29,7 +29,7 @@ latest_posts:
 
 I am the CEO & Co-Founder of [Unified Sciences](https://unified-sciences.com/){:target="\_blank"}, where we are building the infrastructure for AI-accelerated science. My research spans self-improving agents, LLM reasoning, automated research pipelines, and agentic data analysis — bridging cutting-edge research with production-ready systems.
 
-I am also a Postdoctoral Fellow at [Mila - Quebec AI Institute](https://mila.quebec/en){:target="\_blank"}, working with [Prof. Chris Pal](https://sites.google.com/view/christopher-pal){:target="\_blank"}, [Prof. Laurent Charlin](https://www.cs.toronto.edu/~lcharlin/){:target="\_blank"}, and [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/){:target="\_blank"} on enhancing scientific workflows with AI.
+I am also a Postdoc at [Mila - Quebec AI Institute](https://mila.quebec/en){:target="\_blank"}, working with [Prof. Chris Pal](https://sites.google.com/view/christopher-pal){:target="\_blank"}, [Prof. Laurent Charlin](https://www.cs.toronto.edu/~lcharlin/){:target="\_blank"}, and [Hugo Larochelle](https://mila.quebec/en/person/hugo-larochelle/){:target="\_blank"} on enhancing scientific workflows with AI.
 
 Previously, I was a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.html){:target="\_blank"} of the [University of Waterloo](https://cs.uwaterloo.ca/){:target="\_blank"}, advised by [Prof. Olga Vechtomova](https://ov-research.uwaterloo.ca/){:target="\_blank"}, and a Visiting Researcher at ServiceNow Research, where I led work on data augmentation and agentic analytics.
 
