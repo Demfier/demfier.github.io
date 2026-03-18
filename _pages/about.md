@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CEO & Co-Founder, <a href='https://unified-sciences.com/' target='_blank'>Unified Sciences</a> · AI Researcher at Mila · Unlocking the next trillion dollar opportunities with AI.
+subtitle: CEO & Co-Founder, <a href='https://unified-sciences.com/' target='_blank'>Unified Sciences</a> · AI × Science
 
 profile:
   align: right
