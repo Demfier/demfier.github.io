@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+> **This list is out of date.** For the complete and current set of publications, see my [Google Scholar profile](https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}).
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
